@@ -1858,7 +1858,11 @@ class StrDeal {
 
     public static void main(String[] args) {
         System.out.println("Just add something...");
+
         System.out.println("B1 branch test...");
+
+        System.out.println("C4 branch test...");
+
     }
 
 }

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2509a13f-5ff8-42c7-ad2c-f00ba0c52650" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/b.txt" afterPath="$PROJECT_DIR$/b.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/branchdemo.txt" afterPath="$PROJECT_DIR$/branchdemo.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/random.txt" afterPath="$PROJECT_DIR$/random.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Lab1final/main.java" afterPath="$PROJECT_DIR$/src/Lab1final/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +17,7 @@
       <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lab1final/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
+            <state relative-caret-position="153">
               <caret line="1860" column="45" lean-forward="false" selection-start-line="1860" selection-start-column="45" selection-end-line="1860" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -330,14 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/random.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -346,9 +335,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab1final/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
+        <state relative-caret-position="153">
           <caret line="1860" column="45" lean-forward="false" selection-start-line="1860" selection-start-column="45" selection-end-line="1860" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />

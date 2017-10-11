@@ -1856,6 +1856,8 @@ class StrDeal {
         return finalStr;
     }
 
-    
+    public static void main(String[] args) {
+        System.out.println("Just add something...");
+    }
 
 }

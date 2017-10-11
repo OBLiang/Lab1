@@ -1858,15 +1858,15 @@ class StrDeal {
 
     public static void main(String[] args) {
         System.out.println("Just add something...");
-<<<<<<< HEAD
+
 
         System.out.println("B1 branch test...");
 
         System.out.println("C4 branch test...");
 
-=======
+
         System.out.println("B2 branch test...");
->>>>>>> B2
+
     }
 
 }
